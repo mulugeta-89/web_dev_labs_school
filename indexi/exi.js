@@ -1,0 +1,1 @@
+console.log("mulugeta".slice(4,9))
